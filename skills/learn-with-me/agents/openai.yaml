@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的技术学习教练"
+  short_description: "结合学习路线、费曼复述、实践测验与间隔复习，持续记录技术自学进度"
+  default_prompt: "用 $learn-with-me 带我学习一个技术主题，先问清我的相关基础，再确定目标、路线与第一课。"

@@ -1,0 +1,35 @@
+# Local credentials and keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Personal learning state
+.codex/
+.learning/
+learning/
+PROFILE.md
+INDEX.md
+MISSION.md
+SOURCES.md
+PROGRESS.md
+QUESTION-BANK.md
+REVIEW.json
+sessions/
+
+# Runtime and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
